@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bu2hao
+- 👋 Hi, I’m @bu2hao，这是我的个人软件仓库，仅供学习使用。
 
 <!---
 bu2hao/bu2hao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
